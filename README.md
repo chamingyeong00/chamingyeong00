@@ -1,9 +1,9 @@
 ## Introdutioin
-반갑습니다.
-강제로 코딩하고 있습니다.
+- Hello. My name is MinGyeong Cha.
 
 ## Carrer
-- 영남대학교 컴퓨터공학과 재학생 2학년
+- Yeungnam University, computer engineering student 2grade
 
 ## Links
 -E-mail mingyeong1104@naver.com
+
