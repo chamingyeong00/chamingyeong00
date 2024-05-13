@@ -1,5 +1,5 @@
 ## Introdutioin
-- Hello. My name is MinGyeong Cha.
+- Hello. My name is MinGyeong Cha. I finished studying Python and C language and am learning C++.
 
 ## Carrer
 - Yeungnam University, computer engineering student 2grade
