@@ -5,5 +5,5 @@
 - Yeungnam University, computer engineering student 2grade
 
 ## Links
--E-mail mingyeong1104@naver.com
+-E-mail mingyeong1104@naver.com endl
 -Instargram alsr_ud00
