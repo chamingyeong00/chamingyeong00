@@ -6,7 +6,6 @@
 
 ## Links
 -E-mail mingyeong1104@naver.com <br/>
--Instargram alsr_ud00
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
