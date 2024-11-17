@@ -3,6 +3,7 @@
 
 ## Career
 - Yeungnam University, computer engineering student 2nd grade
+- Gyeongsan Innovation Academy, 2nd cohort
 
 ## Links
 - E-mail: mingyeong1104@naver.com <br/>
