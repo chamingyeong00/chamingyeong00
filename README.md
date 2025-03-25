@@ -2,8 +2,8 @@
 - Hello. My name is MinGyeong Cha.
 
 ## Career
-- Yeungnam University, computer engineering student 2nd grade
-- Gyeongsan Innovation Academy, 2nd cohort
+- Yeungnam University, computer engineering student 3nd grade
+- 42Gyeongsan Innovation Academy, 2nd cohort
 
 ## Links
 - E-mail: mingyeong1104@naver.com <br/>
