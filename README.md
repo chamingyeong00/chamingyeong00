@@ -4,6 +4,7 @@
 ## Career
 - Yeungnam University, computer engineering student 3nd grade
 - 42Gyeongsan Innovation Academy, 2nd cohort
+- LikeLion University 13th Cohort - Backend Track
 
 ## Links
 - E-mail: mingyeong1104@naver.com <br/>
