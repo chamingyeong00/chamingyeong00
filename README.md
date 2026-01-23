@@ -72,8 +72,8 @@
 ---
 
 ## 📈 Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[본인ID]&layout=compact&theme=vital-liberty)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=[본인ID]&show_icons=true&theme=vital-liberty)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamingyeong00&layout=compact&theme=vital-liberty)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chamingyeong00&show_icons=true&theme=vital-liberty)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
