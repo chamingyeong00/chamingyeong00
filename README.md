@@ -6,13 +6,22 @@
 
 ## 🚀 About Me & Education
 - 🎓 **University:** 영남대학교 컴퓨터공학과 4학년 재학 중
-  - 🏛 **Student Council:** 영남대학교 컴퓨터학부 학생회 활동 (1~4학년)
 - 🏫 **Specialized Education:**
+  - **2024 ICT COG Academy:** Python/TensorFlow 기반 머신러닝·딥러닝 심화 과정 이수
   - **42 Gyeongsan:** C 언어 기반 시스템 프로그래밍 및 자기주도적 문제 해결 역량 강화
   - **Naver Cloud Academy:** 클라우드 인프라 설계 및 네이티브 서비스 활용 교육 수료
-- 💡 **Challenges:**
-  - **한화생명 미래금융인재 공모전 참여:** 금융 도메인 분석 및 핀테크 서비스 기획 도전
-  - **멋쟁이사자처럼(LikeLion) 해커톤:** 제한된 시간 내 MVP 개발 및 팀 협업 프로젝트 완수
+- 🏛 **Experience:** 영남대학교 컴퓨터학부 학생회 활동 (1~4학년)
+
+---
+
+## 🏃 Experience & Activities
+- 🦁 **멋쟁이사자처럼 대학 13기 수료:**
+  - **중앙 해커톤:** AI 기반 경산시 소상공인 상권 분석 및 창업 추천 플랫폼 개발
+  - **중앙 아이디어톤:** 복약 상호작용 자동 분석 및 대체 추천 플랫폼 제안
+  - **백엔드 트랙 스터디:** OOP부터 Spring, JPA, Security, 배포까지 전 과정 체계적 학습
+- 🏆 **한화생명 미래금융인재 공모전:** 금융 도메인 분석 및 신규 핀테크 서비스 기획 도전
+- 👥 **MIDAS Group:** PCCP 스터디 및 임베디드 실습 주도, 팀 협업 프로세스 관리
+
 ---
 
 ## 🛠 Tech Stack
@@ -42,6 +51,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Make](https://img.shields.io/badge/Make-000000?style=flat-square&logo=gnu&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
