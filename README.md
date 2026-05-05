@@ -59,24 +59,9 @@
 
 ## 📌 Featured Projects
 
-### 1️⃣ Yummy Pass (학식 관리 및 결제 서비스)
-> **동시성 제어와 자동화 파이프라인 구축**
-- **Core:** 비관적 락(Pessimistic Lock)을 활용한 결제/재고 데이터 정합성 보장
-- **Tech:** Java 17, Spring Boot, MySQL, Spring Security (JWT)
-- **DevOps:** GitHub Actions & Docker 기반의 AWS 자동 배포 파이프라인 구축
-- **Key:** UUID 기반 고유 QR 코드 생성 및 유효성 검증 로직 구현
-
-### 2️⃣ AI 기반 상권 분석 플랫폼
-> **빅데이터와 AI를 활용한 의사결정 보조 플랫폼**
-- **Core:** 소상공인365 빅데이터 플랫폼 연동 및 Feasibility Score 알고리즘 설계
-- **Tech:** Spring AI, Java 17, Spring Boot, Big Data Pipeline
-- **Role:** AI 분석 에이전트 개발 및 데이터 수집 파이프라인 구축
-
-### 3️⃣ 시니링 (스마트 시니어 케어 서비스)
-> **시니어 맞춤형 UX와 푸시 알림 인프라 구축**
-- **Core:** Web Push API와 VAPID를 활용한 실시간 알림 스케줄러 구현
-- **Tech:** OAuth2 (Kakao, Naver, Google), Spring Security, VAPID
-- **Feature:** 게이미피케이션 기반 보상 구조 및 시니어 친화적 UX 설계
+### Yummy Pass (학식 관리서비스)
+### AI 기반 상권 분석 플랫폼
+### 시니링 (스마트 시니어 케어 서비스)
 
 ---
 
